@@ -1,8 +1,8 @@
 import Data.Char
 
---@author: jevy18
---@language: haskell
---@version 1.1
+--@author: jevoun
+--@language: Haskell
+--@version 1.2
 
 addDigit::Int->Int->Int
 addDigit a b
